@@ -12,5 +12,6 @@ I also wrote a single line to check if I was doing correctly. If the screen prin
 I changed all Ts to As and all As to Ts by 
 `sed 's/T/t/g' tables/new.csv | sed 's/A/T/g' | sed 's/t/A/g' `
 
+The `.csv` file with correct format will be `tables/new.csv`.
 
 
