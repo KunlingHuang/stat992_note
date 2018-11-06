@@ -14,4 +14,5 @@ I changed all Ts to As and all As to Ts by
 
 The `.csv` file with correct format will be `tables/new.csv`.
 
-
+### binomial coefficient exercise
+The binomial coefficient exercise .py file is scripts/binomial.py
